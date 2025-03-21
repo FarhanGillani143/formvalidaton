@@ -1,8 +1,8 @@
 import React from "react";
-import App from "./App";
+import LoginForm from "./LoginForm"
 
 export default function Page() {
   return (
-      <App />
+      <LoginForm />
   );
 }
